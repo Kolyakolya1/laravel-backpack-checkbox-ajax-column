@@ -14,7 +14,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "CheckboxAjaxServiceProvider"
+                "inf1111\\CheckboxAjax\\CheckboxAjaxServiceProvider"
             ]
         }
     },
