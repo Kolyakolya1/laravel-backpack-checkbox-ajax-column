@@ -1,0 +1,26 @@
+{
+    "name": "inf1111/laravel-backpack-checkbox-ajax-column",
+    "description": "Adds checkbox_ajax column support to Laravel Backpack",
+    "authors": [
+        {
+            "name": "inf1111",
+            "email": "707inf@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "backpack/crud": "^4.1.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CheckboxAjaxServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "inf1111\\CheckboxAjax\\": "src/"
+        }
+    }
+}
