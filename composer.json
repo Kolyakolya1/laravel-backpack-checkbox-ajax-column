@@ -1,6 +1,7 @@
 {
     "name": "inf1111/laravel-backpack-checkbox-ajax-column",
     "description": "Adds checkbox_ajax column support to Laravel Backpack",
+    "license": "MIT",
     "authors": [
         {
             "name": "inf1111",
